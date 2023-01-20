@@ -1,9 +1,14 @@
 # React YouTube clone
 
+## Features
 
-## WARNING
-<strong> if the app does not load anything or the search function doesn't work, it is very likely the daily YouTube API quota has exceeded. There are only 5000 daily quotas for free usage, and each search costs 100 quotas. If the app doesn't work, I hope the animated GIF here can give you an idea of how it works. </strong>
+This application includes the major features of Youtube such as
 
+- home feed with infinite scroll
+- trending videos
+- searching for videos
+- watching videos
+- displaying comments and video details
 
 ## What does this app do?
 
@@ -24,6 +29,8 @@
 - axios
 - styled-components
 - Material-UI v4
-
+- 
+## WARNING
+<strong> if the app does not load anything or the search function doesn't work, it is very likely the daily YouTube API quota has exceeded. There are only 5000 daily quotas for free usage, and each search costs 100 quotas. If the app doesn't work, I hope the animated GIF here can give you an idea of how it works. </strong>
 
 Happy coding!
